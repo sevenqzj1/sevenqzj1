@@ -37,6 +37,16 @@ Tenho interesse em desenvolvimento de software, aplicações web, jogos e bancos
   <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,supabase,git,github&theme=dark" alt="HTML, CSS, JavaScript, Java, MySQL, PostgreSQL, Supabase, Git e GitHub" />
 </p>
 
+## Atividade no GitHub
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/sevenqzj1/sevenqzj1/output/github-contribution-grid-snake.svg"
+    alt="Animação Snake do gráfico de contribuições do GitHub"
+    width="100%"
+  />
+</div>
+
 ## Projetos em destaque
 
 | Projeto | Sobre |
